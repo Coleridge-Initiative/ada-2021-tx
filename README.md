@@ -1,5 +1,3 @@
-* The notebooks for the Texas class will be located in this repository. We will update this repository when the notebooks pass disclosure review. 
-
 # Applied Data Anaytics Program - Texas Class
 There was a 2021 Applied Data Analytics workshop in Texas. Participants worked in teams with high school, post-secondary, and employment agency data. The specific focus of the workshop was on connecting high school and/or post-secondary completion to workforce outcomes in Texas. The program provided instruction on using big data tools including SQL and R. Participants received training on core data concepts such as record linkage and data visualization as well as cutting-edge training in machine learning.
 
